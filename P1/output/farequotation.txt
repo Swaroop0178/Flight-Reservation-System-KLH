@@ -1,0 +1,24 @@
+===== FLIGHT FARE QUOTATION REPORT =====
+
+----- Flight 1 -----
+Flight No: AI101
+Source: Hyderabad
+Destination: Delhi
+Base Fare: 5000.00
+Normal Fare: 5400.00
+Fare With Meal: 5800.00
+
+----- Flight 2 -----
+Flight No: EK501
+Source: Hyderabad
+Destination: Dubai
+Base Fare: 300.00
+Airport Tax: 50.00
+Visa Fee: 20.00
+Normal Fare: 394.00
+Converted Fare at rate 83.0: 32702.00
+
+Cheaper flight between first two flights: EK501
+Cheapest Flight: EK501
+Total Flights Created: 2
+Records read 2, accepted 2, rejected 0.
